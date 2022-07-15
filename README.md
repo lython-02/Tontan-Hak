@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 
 
 ![Tontan-Hak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tontan-Hak&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
