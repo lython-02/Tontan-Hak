@@ -12,6 +12,7 @@
 - 💬 Ask me about Math or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I graduted in bachelor in major of Mathematics and I want to be Data Science.
+
 My Journey
 - 🎓 I graduated from Royal University of Phnom Penh, Cambodia in 2020 in major of Mathematics.
 - 🏫 I am currently work as Mathematics facilitator (2020 - now).
