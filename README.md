@@ -35,10 +35,12 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tontan-Hak&theme=vue" />
 </p>
 
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iampawan&icon=0&color=1)](https://visitcount.itsvg.in)
+[![Tonan-Hak](https://visitcount.itsvg.in/api?id=Tontan-Hak&icon=0&color=1)](https://visitcount.itsvg.in)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
