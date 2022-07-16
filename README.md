@@ -36,10 +36,7 @@
 </p>
 
 ## Most Used Languages
-<p align="center">
-	<img width="48%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact)](https://github.com/Tontan-Hak/github-readme-stats)" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tontan-Hak&theme=vue" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact)](https://github.com/Tontan-Hak/github-readme-stats)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
