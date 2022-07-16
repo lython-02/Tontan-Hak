@@ -44,11 +44,4 @@ My Journey
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
-[![Tonan-Hak](https://visitcount.itsvg.in/api?id=Tontan-Hak&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<a href="https://github.com/Tontan-Hak/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tontan-Hak&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Tontan-Hak/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tontan-Hak&repo=convoychat" />
-</a>
+[![Tonan-Hak](https://visitcount.itsvg.in/api?id=Tontan-Hak&icon=0&color=50)](https://visitcount.itsvg.in)
