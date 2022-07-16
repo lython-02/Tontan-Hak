@@ -1,10 +1,4 @@
 ![Blue Virtual Google Classroom Header (2)](https://user-images.githubusercontent.com/85992213/179361150-a94ef864-44ea-4d00-ba03-104716f62eaf.png)
-
-<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Tontan</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tontan-Hak&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Tontan-Hak" /> </p>
 
 # 💫 About Me :
