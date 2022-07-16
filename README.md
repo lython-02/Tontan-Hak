@@ -11,7 +11,7 @@
 - 👯 I’m looking for mentor to help me in software engineering.
 - 💬 Ask me about Math or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I have a bachelor's degree in mathematics and aspire to be a software Engineering.
+- ⚡ Fun fact: When I finished high school, I want to be a Civil Engineer.I have a bachelor's degree in mathematics and become a teacher and now aspire to be a software Engineering.
 
 My Journey
 - 🎓 I graduated from Royal University of Phnom Penh, Cambodia in 2020 in major of Mathematics.
