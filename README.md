@@ -44,10 +44,10 @@
 ---
 [![Tonan-Hak](https://visitcount.itsvg.in/api?id=Tontan-Hak&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!--  https://ritik307.github.io/portfolio/  -->
+<!--  https://Tontan-Hak.github.io/portfolio/  -->
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+<img src="https://github.com/Tontan-Hak/Tontan-Hak/blob/main/images/newbg(1).png" />
 
 <p align="center">
