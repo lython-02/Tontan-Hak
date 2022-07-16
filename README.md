@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/His
 - 🔭 I’m currently a learning facilitator at E2stem education.
 - 🌱 I’m currently learning at Higher Diplomation Software Development at E2stem.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/hellocodepur).
+- 👯 I’m looking for mentor to help me in software engineering.
 - 🤔 I’m looking for help with Coding.
 - 💬 Ask me about Math or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
@@ -35,7 +35,7 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tontan-Hak&theme=vue" />
 </p>
 
-## Most Used Languages
+## 💻 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact)](https://github.com/Tontan-Hak/github-readme-stats)
 
 ### ✍️Random Dev Quote
@@ -44,3 +44,10 @@
 ---
 [![Tonan-Hak](https://visitcount.itsvg.in/api?id=Tontan-Hak&icon=0&color=1)](https://visitcount.itsvg.in)
 
+<!--  https://ritik307.github.io/portfolio/  -->
+<p align="center">
+ 
+</p align="center">
+<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+
+<p align="center">
