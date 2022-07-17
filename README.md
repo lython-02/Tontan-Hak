@@ -38,9 +38,7 @@ My Journey
 </p>
 
 ## 💻 Most Used Languages
-<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&langs_count=8)](https://github.com/Tontan-Hak/github-readme-stats)
-</p>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
