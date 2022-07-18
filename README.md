@@ -19,7 +19,9 @@ My Journey
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hak_tontan/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hak-tontan-524897134/) [![Twitter](https://img.shields.io/twitter/follow/HakTontan?logo=Twitter&style=for-the-badge)](https://twitter.com/HakTontan)
 
 ## 🐍 My Contribution Graph
-![snake gif](https://github.com/Tontan-Hak/Tontan-Hak/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://github.com/Tontan-Hak/Tontan-Hak/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 ## 📈 Activity Graph
 <p align="center">
@@ -44,7 +46,7 @@ My Journey
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://github.com/Tontan-Hak/Tontan-Hak/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
