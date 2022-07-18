@@ -31,6 +31,11 @@ My Journey
   <img src="https://github.com/Tontan-Hak/Tontan-Hak/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tontan-Hak&theme=gruvbox"/>
+</p>
+
 ## 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tontan-Hak&show_icons=true&theme=gruvbox" />
@@ -38,10 +43,6 @@ My Journey
 	<img width="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact&theme=gruvbox">
 </p>
 
-## 💳 Github Profile Summary Card
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tontan-Hak&theme=gruvbox"/>
-</p>
 
 ## 📈 Activity Graph
 <p align="center">
