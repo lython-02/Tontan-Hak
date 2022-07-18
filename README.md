@@ -25,6 +25,7 @@ My Journey
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]()
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
 [![Github](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)]()
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
 
 ## 🐍 My Contribution Graph
 <p align="center">
