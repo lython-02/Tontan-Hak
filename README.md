@@ -67,5 +67,5 @@ My Journey
 ---
 
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004905372662)
-[![Instagram](https://img.shields.io/badge/Instagram-E34F26?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hak_tontan/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hak-tontan-524897134/) [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.linkedin.com/in/hak-tontan-524897134/) 
-[![Twitter](https://img.shields.io/twitter/follow/HakTontan?logo=Twitter&style=for-the-badge)](https://twitter.com/HakTontan)
+[![Instagram](https://img.shields.io/badge/Instagram-E34F26?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hak_tontan/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hak-tontan-524897134/) [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/HakTontan) 
+[![Twitter](https://img.shields.io/Github/follow/HakTontan?logo=github&style=for-the-badge)](https://twitter.com/HakTontan)
