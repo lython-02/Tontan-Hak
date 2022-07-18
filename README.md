@@ -62,3 +62,12 @@ My Journey
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
+
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
+ <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+ <img src="https://badges.pufler.dev/repos/ritik307"/>
+ <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+
+</p>
