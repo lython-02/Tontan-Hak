@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tontan-Hak&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="Tontan-Hak" /> </p>
 
 # 💫 About Me : [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Tontan-Hak/Tontan-Hak)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🚀 I’m currently a learning facilitator at E2stem education.
 - 🌱 I am doing more about learning: Python, C#, Java Script.
 - 👯 I’m looking for mentor to help me in software engineering.
