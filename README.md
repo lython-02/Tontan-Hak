@@ -61,3 +61,4 @@ My Journey
 
 ---
 
+<div class="instagram-color fa fa-instagram"><span><br>Instagram<br>Hex: #517fa4</span></div>
