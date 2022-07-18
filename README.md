@@ -18,7 +18,7 @@ My Journey
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004905372662)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hak_tontan/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hak-tontan-524897134/) [![Twitter](https://img.shields.io/twitter/follow/HakTontan?logo=Twitter&style=for-the-badge)](https://twitter.com/HakTontan)
 
-## Technology Stack 
+## 🚀 Technology Stack 
 
 [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)]()
@@ -50,7 +50,11 @@ My Journey
 ## 💻 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&theme=gruvbox)](https://github.com/Tontan-Hak/github-readme-stats)
 
-### ✍️Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&hide=html,css,java,shaderlab,kotlin,hlsl&theme=gruvbox">
+</p>
