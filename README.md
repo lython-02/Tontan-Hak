@@ -38,7 +38,7 @@ My Journey
 </p>
 
 ## 💻 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&them=gruvbox)](https://github.com/Tontan-Hak/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&show_icons=true&theme=radicalgruvbox)](https://github.com/Tontan-Hak/github-readme-stats)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
