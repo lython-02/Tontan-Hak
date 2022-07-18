@@ -30,6 +30,10 @@ My Journey
 <p align="center">
   <img src="https://github.com/Tontan-Hak/Tontan-Hak/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tontan-Hak&show_icons=true&theme=gruvbox" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tontan-Hak&theme=gruvbox" />
+</p>
 
 ## 📈 Activity Graph
 <p align="center">
