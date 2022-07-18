@@ -60,5 +60,7 @@ My Journey
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-
-<div class="instagram-color fa fa-instagram"><span><br>Instagram<br>Hex: #517fa4</span></div>
+<div class="SocialMediaColors">
+  <div class="facebook-color fa fa-facebook"><span><br>Facebook<br>Hex: #3b5998</span></div>
+  <div class="instagram-color fa fa-instagram"><span><br>Instagram<br>Hex: #517fa4</span></div>
+</div>
