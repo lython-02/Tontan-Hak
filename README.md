@@ -17,13 +17,11 @@ My Journey
 ## 🌐 How to reach me: Check social links below
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004905372662)
 [![Instagram](https://img.shields.io/badge/Instagram-E34F26?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hak_tontan/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hak-tontan-524897134/) [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/HakTontan)
-<p align="left">
 <a href="https://web.facebook.com/profile.php?id=100004905372662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tontan Hak" height="30" width="40" /></a>
 <a href="https://twitter.com/HakTontan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HakTontan" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hak-tontan-524897134/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hak-tontan-524897134/" height="30" width="40" /></a>
 <a href="https://instagram.com/hak_tontan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hak_tontan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCG1pHGoLj4rOzUskrGvIh9w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Hak Tontan" height="30" width="40" /></a>
-</p>
 
 ## 🚀 Technology Stack 
 
