@@ -15,7 +15,6 @@ My Journey
 - 🔭 I’m currently learning at Higher Diplomation Software Development at E2stem.
 
 ## 🌐 How to reach me: Check social links below
-<h3 align="left">## Connect with me:</h3>
 <p align="left">
 <a href="https://web.facebook.com/profile.php?id=100004905372662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tontan Hak" height="30" width="40" /></a>
 <a href="https://twitter.com/HakTontan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HakTontan" height="30" width="40" /></a>
