@@ -60,7 +60,8 @@ My Journey
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-<div class="SocialMediaColors">
-  <div class="facebook-color fa fa-facebook"><span><br>Facebook<br>Hex: #3b5998</span></div>
-  <div class="instagram-color fa fa-instagram"><span><br>Instagram<br>Hex: #517fa4</span></div>
-</div>
+<a href="https://instagram.com/hak_tontan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+
+
+
+
