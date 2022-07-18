@@ -32,7 +32,7 @@ My Journey
 <a href="https://github.com/search?q=Tontan-Hak"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="https://github.com/search?q=Tontan-Hak"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="https://github.com/search?q=Tontan-Hak"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-<a href="https://github.com/search?q=Tontan-Hak"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=yellow"></a>
+<a href="https://github.com/search?q=Tontan-Hak"><img alt="Python" src="https://img.shields.io/badge/Python.svg?logo=python&logoColor=yellow"></a>
 
 ## 🐍 My Contribution Graph
 <p align="center">
@@ -70,5 +70,5 @@ My Journey
 [![Instagram](https://img.shields.io/badge/Instagram-517fa4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hak_tontan/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hak-tontan-524897134/) [![Twitter](https://img.shields.io/twitter/follow/HakTontan?logo=Twitter&style=for-the-badge)](https://twitter.com/HakTontan)
 
 
-
+-14354C
 
