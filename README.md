@@ -35,7 +35,7 @@ My Journey
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tontan-Hak&show_icons=true&theme=gruvbox" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tontan-Hak&theme=gruvbox" />
-	<img width="100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact&theme=gruvbox">
+	<img width="50%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact&theme=gruvbox">
 </p>
 
 ## 💳 Github Profile Summary Card
@@ -47,15 +47,6 @@ My Journey
 <p align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=Tontan-Hak&theme=gruvbox"/>
 </p>
-
-## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tontan-Hak&theme=gruvbox"/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&layout=compact&theme=gruvbox">
-</p>
-
-## 💻 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tontan-Hak&theme=gruvbox)](https://github.com/Tontan-Hak/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
