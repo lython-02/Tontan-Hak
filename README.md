@@ -1,5 +1,5 @@
 ![Brown and Green Chemistry Class Google Classroom Header](https://user-images.githubusercontent.com/85992213/179496446-39d893fd-09e3-43c9-9c7e-ef5812cf67a5.png)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tontan-Hak&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Tontan-Hak" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tontan-Hak&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="Tontan-Hak" /> </p>
 
 # 💫 About Me :
 - 🚀 I’m currently a learning facilitator at E2stem education.
