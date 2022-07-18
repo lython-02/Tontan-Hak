@@ -16,16 +16,16 @@ My Journey
 
 ## 🌐 How to reach me: Check social links below
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004905372662)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hak_tontan/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hak-tontan-524897134/) [![Twitter](https://img.shields.io/twitter/follow/HakTontan?logo=Twitter&style=for-the-badge)](https://twitter.com/HakTontan)
+[![Instagram](https://img.shields.io/badge/Instagram-#3f729b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hak_tontan/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hak-tontan-524897134/) [![Twitter](https://img.shields.io/twitter/follow/HakTontan?logo=Twitter&style=for-the-badge)](https://twitter.com/HakTontan)
 
 ## 🚀 Technology Stack 
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
 [![Github](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)]()
 <a href="https://github.com/search?q=Tontan-Hak"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-<a href="https://github.com/search?q=Tontan-Hak"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="https://github.com/search?q=Tontan-Hak"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=Tontan-Hak"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+<a href="https://github.com/search?q=Tontan-Hak"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="https://github.com/search?q=Tontan-Hak"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
 <a href="https://github.com/search?q=Tontan-Hak"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 
