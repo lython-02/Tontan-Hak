@@ -13,15 +13,14 @@ My Journey
 - 🎓 I graduated from Royal University of Phnom Penh, Cambodia in 2020 in major of Mathematics.
 - 🏫 I am currently work as Mathematics facilitator (2020 - now).
 - 🔭 I’m currently learning at Higher Diplomation Software Development at E2stem.
-- 
-<h2 align="center">Technology Stack <img src="https://github.com/Tontan-Hak/Tontan-Hak/blob/main/images/laptop.gif" width="50"></h2>
+
+## Technology Stack 
 
 [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p>
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]()
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
+[![Github](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)]()
 
 ## 🌐 How to reach me: Check social links below
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004905372662)
