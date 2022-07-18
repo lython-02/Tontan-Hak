@@ -1,7 +1,7 @@
 ![Brown and Green Chemistry Class Google Classroom Header](https://user-images.githubusercontent.com/85992213/179496446-39d893fd-09e3-43c9-9c7e-ef5812cf67a5.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tontan-Hak&label=Profile Views&color=blue&style=plastic&style=for-the-badge" alt="Tontan-Hak" /> </p>
 
-# 💫 About Me : [![Awesome](https://cdn.rawgit.com/Tontan-Hak/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Tontan-Hak/awesome)
+# 💫 About Me : [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Tontan-Hak/awesome)
 - 🚀 I’m currently a learning facilitator at E2stem education.
 - 🌱 I am doing more about learning: Python, C#, Java Script.
 - 👯 I’m looking for mentor to help me in software engineering.
