@@ -68,4 +68,4 @@ My Journey
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 --- 
-<a href="#"><img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-DD1100.svg?logo=wolfram-mathematica&logoColor=white"></a>
+<a href="#"><img alt="Mathematica" src="https://img.shields.io/badge/Mathematics-DD1100.svg?logo=wolfram-mathematica&logoColor=white"></a>
