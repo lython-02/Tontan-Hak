@@ -28,8 +28,10 @@ My Journey
 
 ## 🚀 Technology Stack 
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
-[![Github](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)]()
+<a href="#"><img alt="Mathematica" src="https://img.shields.io/badge/Mathematics-DD1100.svg?logo=wolfram-mathematica&logoColor=white"></a>
+<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-327FC7.svg?logo=github&logoColor=white"></a>
 <a href="https://github.com/search?q=Tontan-Hak"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
 <a href="https://github.com/search?q=Tontan-Hak"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=Tontan-Hak"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -68,8 +70,5 @@ My Journey
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 --- 
-<a href="#"><img alt="Mathematica" src="https://img.shields.io/badge/Mathematics-DD1100.svg?logo=wolfram-mathematica&logoColor=white"></a>
-<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-327FC7.svg?logo=github&logoColor=white"></a>
+
 
