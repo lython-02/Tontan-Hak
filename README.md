@@ -71,5 +71,5 @@ My Journey
 <a href="#"><img alt="Mathematica" src="https://img.shields.io/badge/Mathematics-DD1100.svg?logo=wolfram-mathematica&logoColor=white"></a>
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-327FC7.svg?logo=github&logoColor=white"></a>
 
