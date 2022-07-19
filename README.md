@@ -7,7 +7,7 @@
 - 🌱 I am doing more about learning: Python, C#, Java Script.
 - 👯 I’m looking for mentor to help me in software engineering.
 - 💬 Ask me about Math or any tech-related stuff.
-- 📫 How to reach me:**tontanhak97@gmail.com**
+- 📫 How to reach me: **tontanhak97@gmail.com**
 - ⚡ Fun fact: When I finished high school, I want to be a Civil Engineer. I have a bachelor's degree in mathematics and become a teacher and now aspire to be a software Engineering.
 
 My Journey
@@ -15,7 +15,7 @@ My Journey
 - 🏫 I am currently work as Mathematics facilitator (2020 - now).
 - 🔭 I’m currently learning at Higher Diplomation Software Development at E2stem.
 
-# 🌐 How to reach me: Check social links below
+# 🌐 Check social links below
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004905372662)
 [![Instagram](https://img.shields.io/badge/Instagram-E34F26?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hak_tontan/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hak-tontan-524897134/) [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/HakTontan)
 <p align="left">
