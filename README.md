@@ -7,7 +7,7 @@
 - 🌱 I am doing more about learning: Python, C#, Java Script.
 - 👯 I’m looking for mentor to help me in software engineering.
 - 💬 Ask me about Math or any tech-related stuff.
-- 📫 How to reach me: Check social links below.
+- 📫 How to reach me:**tontanhak97@gmail.com**
 - ⚡ Fun fact: When I finished high school, I want to be a Civil Engineer. I have a bachelor's degree in mathematics and become a teacher and now aspire to be a software Engineering.
 
 My Journey
