@@ -66,7 +66,7 @@ My Journey
 
 # 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=Tontan-Hak&theme=true"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=Tontan-Hak&show_icons=true&theme=gruvbox"/>
 </p>
 
 # 💻 Most Used Languages
