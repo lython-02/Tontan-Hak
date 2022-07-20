@@ -20,7 +20,7 @@ My Journey
   <br/>
 
 <!--START_SECTION:activity-->
-	*💪 "**It should be one of our mission to improve everyday for the better**"
+	💪 "**It should be one of our mission to improve everyday for the better**"
 <!--END_SECTION:activity-->
 </details>
 I am happy when I can improve myself just 1% everyday
