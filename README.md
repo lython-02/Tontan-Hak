@@ -23,7 +23,7 @@ My Journey
 	💪 It should be one of our mission to improve everyday for the better
 <!--END_SECTION:activity-->
 </details>
-I am happy when I can improve myself just 1% everyday
+**I am happy when I can improve myself just 1% everyday**
 
 # 🌐 Check social links below
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004905372662)
