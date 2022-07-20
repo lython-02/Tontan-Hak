@@ -10,7 +10,7 @@
 - 📫 How to reach me: **tontanhak97@gmail.com**
 - ⚡ Fun fact: When I finished high school, I want to be a Civil Engineer. I have a bachelor's degree in mathematics and become a teacher and now aspire to be a software Engineering.
 
-My Journey
+**My Journey**
 - 🎓 I graduated from [Royal University of Phnom Penh, Cambodia](http://www.rupp.edu.kh/) in 2020 in major of Mathematics.
 - 🏫 I am currently work as Mathematics facilitator (2020 - now).
 - 🔭 I’m currently learning at Higher Diplomation Software Development at [E2stem education, Cambodia](https://e2stem.org.kh/).
