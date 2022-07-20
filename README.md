@@ -16,7 +16,7 @@ My Journey
 - 🔭 I’m currently learning at Higher Diplomation Software Development at [E2stem education, Cambodia](https://e2stem.org.kh/).
 
 <details>
-  <summary>⚡ My mission</summary>
+  <summary>⏳ My mission</summary>
   <br/>
 
 <!--START_SECTION:activity-->
