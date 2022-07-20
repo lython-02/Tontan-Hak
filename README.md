@@ -48,6 +48,7 @@ I am happy when I can improve myself just 1% everyday
     <a href="https://github.com/search?q=Tontan-Hak"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
    <a href="https://github.com/search?q=Tontan-Hak"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
    <a href="https://github.com/search?q=Tontan-Hak"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=yellow"></a>
+   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="flask" width="40" height="40"/> </a>
 </p>
 
 # 💻 Programming and markup languages
