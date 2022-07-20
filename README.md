@@ -13,7 +13,7 @@
 My Journey
 - 🎓 I graduated from Royal University of Phnom Penh, Cambodia in 2020 in major of Mathematics.
 - 🏫 I am currently work as Mathematics facilitator (2020 - now).
-- 🔭 I’m currently learning at Higher Diplomation Software Development at E2stem.
+- 🔭 I’m currently learning at Higher Diplomation Software Development at [E2stem education, Cambodia](https://e2stem.org.kh/).
 
 # 🌐 Check social links below
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004905372662)
